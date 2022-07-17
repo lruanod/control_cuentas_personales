@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "558315560463",
+    "firebase_url": "https://controlcuenta-d6c4f-default-rtdb.firebaseio.com",
+    "project_id": "controlcuenta-d6c4f",
+    "storage_bucket": "controlcuenta-d6c4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558315560463:android:8d3679419eff3d43ce0d7a",
+        "android_client_info": {
+          "package_name": "com.luiskik10.controlcuentas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558315560463-chsfc5qdn3vnhgh7p1q43jm0mkhtgm08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luiskik10.controlcuentas",
+            "certificate_hash": "999aee8ca50bb8c67f262102f184c0ac02e39b1c"
+          }
+        },
+        {
+          "client_id": "558315560463-cp1ln3bi9g47p9hfh3bcsj7045ul6c25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUdydgw3Q5k4vAlV5NfTDZTR0kEWuheyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558315560463-cp1ln3bi9g47p9hfh3bcsj7045ul6c25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
